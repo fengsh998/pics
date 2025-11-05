@@ -1102,10 +1102,10 @@
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--66" value="USBDP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="103" width="56" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Ehz-z0UbTOqkMieIUQQ--67" value="CAN_RX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--67" value="CAN_RX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4C0099;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="174" y="80" width="56" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="Ehz-z0UbTOqkMieIUQQ--68" value="CAN_TX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--68" value="CAN_TX" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4C0099;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="174" y="104" width="56" height="16" as="geometry" />
         </mxCell>
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--69" value="JTDO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1167,6 +1167,9 @@
         </mxCell>
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--89" value="&lt;p dir=&quot;auto&quot; style=&quot;text-align: start; white-space: pre-wrap;&quot;&gt;Timeer Channel  Negative (定时互补/反相输出)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="512.6" y="596" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--90" value="Can信号" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4C0099;" vertex="1" parent="1">
+          <mxGeometry x="820" y="596" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
