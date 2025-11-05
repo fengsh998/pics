@@ -925,6 +925,15 @@
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--5" value="颜色说明：" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="453" y="495" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--6" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 10.2507pt; font-family: ArialMT;&quot;&gt;TAMPER-RTC&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="324" width="120" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--7" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 10.2507pt; font-family: ArialMT;&quot;&gt;OSC32_IN&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="302" width="120" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--8" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 10.2507pt; font-family: ArialMT;&quot;&gt;OSC32_OUT&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="279" width="120" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
