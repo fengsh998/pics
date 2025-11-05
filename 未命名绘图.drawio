@@ -934,6 +934,12 @@
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--8" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 10.2507pt; font-family: ArialMT;&quot;&gt;OSC32_OUT&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="279" width="120" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--9" value="PC13LED" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="324" width="100" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--10" value="ADC_IN_0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="257" width="90" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
