@@ -940,6 +940,33 @@
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--10" value="ADC_IN_0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="1040" y="257" width="90" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--11" value="ADC_IN_1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="234" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--12" value="ADC_IN_2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="214" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--13" value="ADC_IN_5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="147" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--14" value="ADC_IN_6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="125" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--15" value="ADC_IN_8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--16" value="ADC_IN_3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="191" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--17" value="ADC_IN_4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="169" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--18" value="ADC_IN_7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="103" width="90" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--19" value="ADC_IN_9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33FF33;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="58" width="90" height="16" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
