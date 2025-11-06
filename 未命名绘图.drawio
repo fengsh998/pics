@@ -1543,7 +1543,7 @@
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--89" value="&lt;p dir=&quot;auto&quot; style=&quot;text-align: start; white-space: pre-wrap;&quot;&gt;Timeer Channel  Negative (定时互补/反相输出)&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="512.6" y="596" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ehz-z0UbTOqkMieIUQQ--90" value="Can信号" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4C0099;" vertex="1" parent="1">
+        <mxCell id="Ehz-z0UbTOqkMieIUQQ--90" value="Can接口" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4C0099;" vertex="1" parent="1">
           <mxGeometry x="820" y="596" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ehz-z0UbTOqkMieIUQQ--97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1" source="Ehz-z0UbTOqkMieIUQQ--93" target="Ehz-z0UbTOqkMieIUQQ--94">
