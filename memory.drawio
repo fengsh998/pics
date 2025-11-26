@@ -562,6 +562,9 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;在 STM32 和几乎所有现代计算机中，内存地址的最小寻址单位是&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1 个字节 (Byte)&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1Byte = 8 bit&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="300" x="-70" y="760" as="geometry" />
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001100 + 0x04 =&amp;nbsp;" vertex="1">
+          <mxGeometry height="29" width="180" x="1150" y="261" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
