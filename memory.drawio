@@ -320,10 +320,10 @@
           <mxGeometry height="25" width="209" x="631" y="75.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="490" y="-180" as="geometry" />
+          <mxGeometry height="25" width="140" x="491" y="-260" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="630" y="-180" as="geometry" />
+          <mxGeometry height="25" width="209" x="631" y="-260" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电源控制(PWR)" vertex="1">
           <mxGeometry height="25" width="140" x="491" y="150.5" as="geometry" />
@@ -331,29 +331,59 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 7000 ~0x4000 73FF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="150.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="800" y="-90" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口B组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="0.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="940" y="-90" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 0C00 ~0x4001 0FFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="0.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="520" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口A组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="660" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 0800 ~0x4001 0BFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="25.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="520" y="-130" as="geometry" />
+          <mxGeometry height="25" width="140" x="521" y="-210" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="660" y="-130" as="geometry" />
+          <mxGeometry height="25" width="209" x="661" y="-210" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="EXTI" vertex="1">
           <mxGeometry height="25" width="140" x="491" y="50.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 0400 ~0x4001 07FF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="50.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口C组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="-24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 ~0x4001 13FF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="-24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口D组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="-49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1400 ~0x4001 17FF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="-49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口E组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="-74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1800 ~0x4001 1BFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="-74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口F组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="-99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 2000 ~0x4001 23FF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="-99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO端口G组" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="-124.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 0C00 ~0x4001 0FFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="-124.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
