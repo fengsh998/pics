@@ -247,11 +247,41 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 4400 ~0x4000 47FF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="490" y="130" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="I2C1" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="630" y="130" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 5400 ~0x4000 57FF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UART4" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="350.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 4C00 ~0x4000 4FFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="350.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="UART5" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="325.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 5000 ~0x4000 53FF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="325.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="USART3" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 4800 ~0x4000 4BFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
+          <mxGeometry height="25" width="140" x="530" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
+          <mxGeometry height="25" width="209" x="670" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="I2C2" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 5800 ~0x4000 5BFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
