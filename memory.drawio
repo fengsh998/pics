@@ -217,17 +217,17 @@
         <mxCell id="T4IyLp_JGlw10XYIexBF-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 3000 ~0x4000 33FF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="525" as="geometry" />
         </mxCell>
-        <mxCell id="T4IyLp_JGlw10XYIexBF-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="510" y="380" as="geometry" />
+        <mxCell id="T4IyLp_JGlw10XYIexBF-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SPI2/I2S3" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="449.5" as="geometry" />
         </mxCell>
-        <mxCell id="T4IyLp_JGlw10XYIexBF-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="650" y="380" as="geometry" />
+        <mxCell id="T4IyLp_JGlw10XYIexBF-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 3C00 ~0x4000 3FFF &amp;nbsp; 4K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="449.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
-          <mxGeometry height="25" width="140" x="830" y="450" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SPI2/I2S3" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="475" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
-          <mxGeometry height="25" width="209" x="970" y="450" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 3800 ~0x4000 3BFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="475" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
           <mxGeometry height="25" width="140" x="491" y="500" as="geometry" />
