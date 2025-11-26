@@ -283,6 +283,24 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 5800 ~0x4000 5BFF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="275" as="geometry" />
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
+          <mxGeometry height="25" width="140" x="720" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
+          <mxGeometry height="25" width="209" x="860" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
+          <mxGeometry height="25" width="140" x="550" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 1800 ~0x4000 27FF &amp;nbsp; 4K" vertex="1">
+          <mxGeometry height="25" width="209" x="690" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="USB全速设备寄存器" vertex="1">
+          <mxGeometry height="25" width="140" x="491" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 5C00 ~0x4000 5FFF &amp;nbsp; 1K" vertex="1">
+          <mxGeometry height="25" width="209" x="631" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
