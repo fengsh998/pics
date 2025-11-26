@@ -220,7 +220,7 @@
         <mxCell id="T4IyLp_JGlw10XYIexBF-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SPI2/I2S3" vertex="1">
           <mxGeometry height="25" width="140" x="491" y="449.5" as="geometry" />
         </mxCell>
-        <mxCell id="T4IyLp_JGlw10XYIexBF-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 3C00 ~0x4000 3FFF &amp;nbsp; 4K" vertex="1">
+        <mxCell id="T4IyLp_JGlw10XYIexBF-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 3C00 ~0x4000 3FFF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="449.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SPI2/I2S3" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
           <mxGeometry height="25" width="140" x="491" y="424.5" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 4000 ~0x4000 43FF &amp;nbsp; 4K" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4000 4000 ~0x4000 43FF &amp;nbsp; 1K" vertex="1">
           <mxGeometry height="25" width="209" x="631" y="424.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="保留" vertex="1">
