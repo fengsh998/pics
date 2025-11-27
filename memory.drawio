@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="29.1.0">
   <diagram name="第 1 页" id="OeFELqA-r1Cy-FhvgnLs">
-    <mxGraphModel dx="1900" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -816,6 +816,9 @@
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="GPIO C区的基地址 0x4001 1000&amp;nbsp;&lt;div&gt;偏移地址(CRL寄存器起址)：0x00 &amp;nbsp;Pin0-Pin7脚的I/O配置，每4bit一个pin脚配置，32bit 就刚好8pin&lt;/div&gt;&lt;div&gt;偏移地址(CRH寄存器起址)：0x04 Pin8-Pin15脚的I/O配置&lt;/div&gt;&lt;div&gt;偏移地址(IDR寄存器起址)：0x08 &amp;nbsp;&lt;/div&gt;&lt;div&gt;偏移地址(ODR寄存器起址)：0x0C &amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;偏移地址(BSRR寄存器起址)：0x10&lt;/div&gt;&lt;div&gt;偏移地址(BRR寄存器起址)：0x14&lt;/div&gt;&lt;div&gt;偏移地址(LCKR寄存器起址)：0x18 &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="660" x="1150" y="483" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Author：fengsh998" vertex="1">
+          <mxGeometry height="30" width="140" x="80" y="49.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
