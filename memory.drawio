@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="29.1.0">
   <diagram name="第 1 页" id="OeFELqA-r1Cy-FhvgnLs">
-    <mxGraphModel dx="1587" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2854" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,8 +562,44 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;在 STM32 和几乎所有现代计算机中，内存地址的最小寻址单位是&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1 个字节 (Byte)&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1Byte = 8 bit&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="300" x="-70" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001100 + 0x04 =&amp;nbsp;" vertex="1">
-          <mxGeometry height="29" width="180" x="1150" y="261" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1004" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="261" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="261" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1005" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="232" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1006" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1007" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_CRH 的32位寄存器" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-122" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-47" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;" target="tkEVdZM2sSOhcewFk4qw-113" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="340" as="sourcePoint" />
+            <mxPoint x="950" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-123" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-110" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.003;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;" target="tkEVdZM2sSOhcewFk4qw-119" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="340" as="sourcePoint" />
+            <mxPoint x="950" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
