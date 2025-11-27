@@ -934,6 +934,27 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-230" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value=".&lt;div&gt;.&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;" vertex="1">
           <mxGeometry height="65.52" width="80" x="-430" y="1001.25" as="geometry" />
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-233" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="信息块" vertex="1">
+          <mxGeometry height="60.75" width="180" x="-940" y="1099.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-234" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统存储器" vertex="1">
+          <mxGeometry height="31.12" width="100" x="-760" y="1098.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-235" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x1FFF F000 ~ 0x01FFF F7FF" vertex="1">
+          <mxGeometry height="31.12" width="230" x="-660" y="1098.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1K" vertex="1">
+          <mxGeometry height="31.12" width="80" x="-430" y="1098.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-237" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选择字节" vertex="1">
+          <mxGeometry height="31.12" width="100" x="-760" y="1129.37" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x1FFF F800 ~ 0x1FFF F80F" vertex="1">
+          <mxGeometry height="31.12" width="230" x="-660" y="1129.37" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1K" vertex="1">
+          <mxGeometry height="31.12" width="80" x="-430" y="1129.37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
