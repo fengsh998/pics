@@ -808,6 +808,12 @@
             <mxPoint x="1180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-189" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO C配置寄存器" vertex="1">
+          <mxGeometry height="254" width="120" x="1810" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO C数据寄存器" vertex="1">
+          <mxGeometry height="254" width="120" x="1810" y="-79.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
