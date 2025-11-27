@@ -673,7 +673,7 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_IDR 的32位寄存器" vertex="1">
           <mxGeometry height="116" width="120" x="1570" y="58.75" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输入数据" vertex="1">
           <mxGeometry height="115.25" width="120" x="1690" y="59.5" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x0C = 0x4001 100C" vertex="1">
@@ -703,7 +703,7 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_ODR 的32位寄存器" vertex="1">
           <mxGeometry height="116" width="120" x="1570" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="输出数据" vertex="1">
           <mxGeometry height="115.25" width="120" x="1690" y="-79.25" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x10 = 0x4001 1010" vertex="1">
