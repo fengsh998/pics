@@ -814,7 +814,7 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-190" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIO C数据寄存器" vertex="1">
           <mxGeometry height="254" width="120" x="1810" y="-79.25" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="GPIO C区的基地址 0x4001 1000&amp;nbsp;&lt;div&gt;偏移地址(CRL寄存器起址)：0x00 &amp;nbsp;Pin0-Pin7脚的I/O配置，每4bit一个pin脚配置，32bit 就刚好8pin&lt;/div&gt;&lt;div&gt;偏移地址(CRH寄存器起址)：0x04 Pin8-Pin15脚的I/O配置&lt;/div&gt;&lt;div&gt;偏移地址(IDR寄存器起址)：0x&lt;/div&gt;" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="GPIO C区的基地址 0x4001 1000&amp;nbsp;&lt;div&gt;偏移地址(CRL寄存器起址)：0x00 &amp;nbsp;Pin0-Pin7脚的I/O配置，每4bit一个pin脚配置，32bit 就刚好8pin&lt;/div&gt;&lt;div&gt;偏移地址(CRH寄存器起址)：0x04 Pin8-Pin15脚的I/O配置&lt;/div&gt;&lt;div&gt;偏移地址(IDR寄存器起址)：0x08 &amp;nbsp;&lt;/div&gt;&lt;div&gt;偏移地址(ODR寄存器起址)：0x0C &amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;偏移地址(BSRR寄存器起址)：0x10&lt;/div&gt;&lt;div&gt;偏移地址(BRR寄存器起址)：0x14&lt;/div&gt;&lt;div&gt;偏移地址(LCKR寄存器起址)：0x18 &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="660" x="1150" y="483" as="geometry" />
         </mxCell>
       </root>
