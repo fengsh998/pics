@@ -943,7 +943,7 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-235" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x1FFF F000 ~ 0x01FFF F7FF" vertex="1">
           <mxGeometry height="31.12" width="230" x="-660" y="1098.25" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1K" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2K" vertex="1">
           <mxGeometry height="31.12" width="80" x="-430" y="1098.25" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-237" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="选择字节" vertex="1">
@@ -952,8 +952,11 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x1FFF F800 ~ 0x1FFF F80F" vertex="1">
           <mxGeometry height="31.12" width="230" x="-660" y="1129.37" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1K" vertex="1">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-239" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="16bit" vertex="1">
           <mxGeometry height="31.12" width="80" x="-430" y="1129.37" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-240" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FLASH闪存组织(即代码烧录区)" vertex="1">
+          <mxGeometry height="501.28" width="70" x="-1010" y="658.72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
