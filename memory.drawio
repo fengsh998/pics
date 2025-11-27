@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="29.1.0">
   <diagram name="第 1 页" id="OeFELqA-r1Cy-FhvgnLs">
-    <mxGraphModel dx="2414" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2727" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry height="30" width="90" x="220" y="585" as="geometry" />
         </mxCell>
         <mxCell id="T4IyLp_JGlw10XYIexBF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0x1FFF FFFF = 2^29 = 536,870,912/1024/1024 = 512M &amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="340" x="-80" y="694.75" as="geometry" />
+          <mxGeometry height="30" width="340" x="-10" y="899.25" as="geometry" />
         </mxCell>
         <mxCell id="T4IyLp_JGlw10XYIexBF-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0x1FFF FFFF" vertex="1">
           <mxGeometry height="30" width="90" x="220" y="546" as="geometry" />
@@ -566,7 +566,7 @@
           <mxGeometry height="675" width="120" x="930" y="475" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;在 STM32 和几乎所有现代计算机中，内存地址的最小寻址单位是&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1 个字节 (Byte)&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1Byte = 8 bit&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="300" x="-70" y="760" as="geometry" />
+          <mxGeometry height="70" width="300" y="929.25" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x04 = 0x4001 1004" vertex="1">
           <mxGeometry height="29" width="290" x="1150" y="289" as="geometry" />
@@ -957,6 +957,18 @@
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-240" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FLASH闪存组织(即代码烧录区)" vertex="1">
           <mxGeometry height="501.28" width="70" x="-1010" y="658.72" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-241" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-196" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T4IyLp_JGlw10XYIexBF-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-90" y="830" as="sourcePoint" />
+            <mxPoint x="-40" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-242" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-239" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="T4IyLp_JGlw10XYIexBF-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-100" y="930" as="sourcePoint" />
+            <mxPoint x="-50" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
