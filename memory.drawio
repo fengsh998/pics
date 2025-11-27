@@ -820,6 +820,9 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Author：fengsh998" vertex="1">
           <mxGeometry height="30" width="140" x="80" y="49.75" as="geometry" />
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4GB的地址空间=4G x 8bit的空间&lt;div&gt;每一个地址空间可存放1Byte的数据&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="470" x="580" y="-580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
