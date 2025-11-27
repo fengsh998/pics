@@ -1051,6 +1051,21 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-269" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4bit" vertex="1">
           <mxGeometry height="37.5" width="120" x="260" y="-275.75" as="geometry" />
         </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-270" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-88" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="tkEVdZM2sSOhcewFk4qw-245" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="-160" as="sourcePoint" />
+            <mxPoint x="460" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-271" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-269" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="tkEVdZM2sSOhcewFk4qw-90" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="-160" as="sourcePoint" />
+            <mxPoint x="690" y="-210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-272" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Flash的寄存器接口用控制主程的代码烧录" vertex="1">
+          <mxGeometry height="338" width="120" x="-290" y="-576.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
