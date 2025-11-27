@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15" version="29.1.0">
   <diagram name="第 1 页" id="OeFELqA-r1Cy-FhvgnLs">
-    <mxGraphModel dx="2854" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1840" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -562,36 +562,36 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: start; font-size: medium;&quot;&gt;在 STM32 和几乎所有现代计算机中，内存地址的最小寻址单位是&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1 个字节 (Byte)&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;text-align: start;&quot;&gt;1Byte = 8 bit&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="300" x="-70" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1004" vertex="1">
-          <mxGeometry height="29" width="290" x="1150" y="261" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x04 = 0x4001 1004" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="289" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
-          <mxGeometry height="29" width="130" x="1440" y="261" as="geometry" />
+          <mxGeometry height="29" width="130" x="1440" y="289" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1005" vertex="1">
-          <mxGeometry height="29" width="290" x="1150" y="232" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x05 = 0x4001 1005" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="260" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
-          <mxGeometry height="29" width="130" x="1440" y="232" as="geometry" />
+          <mxGeometry height="29" width="130" x="1440" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1006" vertex="1">
-          <mxGeometry height="29" width="290" x="1150" y="203" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x06 = 0x4001 1006" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="231" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
-          <mxGeometry height="29" width="130" x="1440" y="203" as="geometry" />
+          <mxGeometry height="29" width="130" x="1440" y="231" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x04 = 0x4001 1007" vertex="1">
-          <mxGeometry height="29" width="290" x="1150" y="174" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x07 = 0x4001 1007" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="202" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
-          <mxGeometry height="29" width="130" x="1440" y="174" as="geometry" />
+          <mxGeometry height="29" width="130" x="1440" y="202" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_CRH 的32位寄存器" vertex="1">
-          <mxGeometry height="116" width="120" x="1570" y="174" as="geometry" />
+          <mxGeometry height="116" width="120" x="1570" y="202" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-122" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-47" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;" target="tkEVdZM2sSOhcewFk4qw-113" value="">
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-122" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="tkEVdZM2sSOhcewFk4qw-113" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="900" y="340" as="sourcePoint" />
+            <mxPoint x="929" y="370" as="sourcePoint" />
             <mxPoint x="950" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -600,6 +600,201 @@
             <mxPoint x="900" y="340" as="sourcePoint" />
             <mxPoint x="950" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x00 = 0x4001 1000" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-125" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x01 = 0x4001 1001" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="398.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="398.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x02 = 0x4001 1002" vertex="1">
+          <mxGeometry height="30.5" width="290" x="1150" y="369.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="369.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x03 = 0x4001 1003" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="340.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="340.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_CRL 的32位寄存器" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="340.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pin0~Pin7" vertex="1">
+          <mxGeometry height="116" width="120" x="1690" y="340.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pin8~Pin15" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="202.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-135" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-110" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.003;exitY=0.802;exitDx=0;exitDy=0;exitPerimeter=0;" target="tkEVdZM2sSOhcewFk4qw-130" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1000" y="390" as="sourcePoint" />
+            <mxPoint x="1050" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-136" edge="1" parent="1" source="tkEVdZM2sSOhcewFk4qw-110" style="endArrow=none;html=1;rounded=0;exitX=-0.014;exitY=0.809;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="tkEVdZM2sSOhcewFk4qw-124" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1000" y="390" as="sourcePoint" />
+            <mxPoint x="1050" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x08 = 0x4001 1008" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="145.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="145.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x09 = 0x4001 1009" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="116.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="116.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x0A = 0x4001 100A" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="87.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-142" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="87.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x0B = 0x4001 100B" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_IDR 的32位寄存器" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="58.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-147" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x0C = 0x4001 100C" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="7" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x0D = 0x4001 100D" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-22" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-22" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x0E = 0x4001 100E" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-51" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-152" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-51" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x0F = 0x4001 100F" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_ODR 的32位寄存器" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="-79.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x10 = 0x4001 1010" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-135.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-135.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x11 = 0x4001 1011" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-164.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-164.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-161" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x12 = 0x4001 1012" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-193.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-162" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-193.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-163" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x13 = 0x4001 1013" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-222.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-222.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_BSRR 的32位寄存器" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="-222.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-166" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="置位/复位" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="-221.5" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-167" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x14 = 0x4001 1014" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-279.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-168" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-279.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-169" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x15 = 0x4001 1015" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-308.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-170" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-308.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x16 = 0x4001 1016" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-337.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-337.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-173" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x17 = 0x4001 1017" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-366.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-174" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-366.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-175" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_BRR 的32位寄存器(只用了16bit)" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="-366.75" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-176" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="复位" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="-366" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-177" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF99FF;" value="0x4001 1000 + 0x18 = 0x4001 1018" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-413" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-178" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-413" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-179" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x19 = 0x4001 1019" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-442" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-180" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-442" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-181" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x1A = 0x4001 101A" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-471" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-182" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-471" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-183" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="0x4001 1000 + 0x1B = 0x4001 101B" vertex="1">
+          <mxGeometry height="29" width="290" x="1150" y="-500" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1Byte即(8bit)" vertex="1">
+          <mxGeometry height="29" width="130" x="1440" y="-500" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-185" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GPIOC_LCKR 的32位寄存器(只用了16bit)" vertex="1">
+          <mxGeometry height="116" width="120" x="1570" y="-500" as="geometry" />
+        </mxCell>
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-186" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="锁定" vertex="1">
+          <mxGeometry height="115.25" width="120" x="1690" y="-499.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
