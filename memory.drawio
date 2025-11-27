@@ -817,11 +817,11 @@
         <mxCell id="tkEVdZM2sSOhcewFk4qw-191" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="GPIO C区的基地址 0x4001 1000&amp;nbsp;&lt;div&gt;偏移地址(CRL寄存器起址)：0x00 &amp;nbsp;Pin0-Pin7脚的I/O配置，每4bit一个pin脚配置，32bit 就刚好8pin&lt;/div&gt;&lt;div&gt;偏移地址(CRH寄存器起址)：0x04 Pin8-Pin15脚的I/O配置&lt;/div&gt;&lt;div&gt;偏移地址(IDR寄存器起址)：0x08 &amp;nbsp;&lt;/div&gt;&lt;div&gt;偏移地址(ODR寄存器起址)：0x0C &amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;偏移地址(BSRR寄存器起址)：0x10&lt;/div&gt;&lt;div&gt;偏移地址(BRR寄存器起址)：0x14&lt;/div&gt;&lt;div&gt;偏移地址(LCKR寄存器起址)：0x18 &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="127" width="660" x="1150" y="483" as="geometry" />
         </mxCell>
-        <mxCell id="tkEVdZM2sSOhcewFk4qw-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Author：fengsh998" vertex="1">
-          <mxGeometry height="30" width="140" x="80" y="49.75" as="geometry" />
+        <mxCell id="tkEVdZM2sSOhcewFk4qw-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=46;" value="Author：fengsh998" vertex="1">
+          <mxGeometry height="30" width="510" x="-50" y="-255.75" as="geometry" />
         </mxCell>
         <mxCell id="tkEVdZM2sSOhcewFk4qw-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4GB的地址空间=4G x 8bit的空间&lt;div&gt;每一个地址空间可存放1Byte的数据&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="470" x="580" y="-580" as="geometry" />
+          <mxGeometry height="213.25" width="130" x="90" y="-43.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
