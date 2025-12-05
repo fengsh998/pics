@@ -517,8 +517,17 @@
         <mxCell id="Iq76VGBb7RV6MLATjvT8-177" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;" value="" vertex="1">
           <mxGeometry height="235" width="20" x="670.5" y="257.5" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-178" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-178" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S区" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D区" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-180" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="P区" vertex="1">
+          <mxGeometry height="30" width="60" x="650.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F区" vertex="1">
+          <mxGeometry height="30" width="60" x="470" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
