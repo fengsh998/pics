@@ -19,7 +19,7 @@
         <mxCell id="Iq76VGBb7RV6MLATjvT8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="与酸反应不能产生氢气" vertex="1">
           <mxGeometry height="40" width="230" x="440" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="活沷性: 强 ----------------------------------------------------------------------------------------------------------------------&amp;gt; 弱" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#FF3333;gradientDirection=west;fontColor=#004C99;" value="活沷性: 强 ----------------------------------------------------------------------------------------------------------------------&amp;gt; 弱" vertex="1">
           <mxGeometry height="30" width="630" x="40" y="70" as="geometry" />
         </mxCell>
       </root>
