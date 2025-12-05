@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="钾(K)&amp;gt;钙(Ca)&amp;gt;钠(Na)&amp;gt;镁(Mg)&amp;gt;铝(Al)&amp;gt;锌(Zn)&amp;gt;铁(Fe)&amp;gt;锡(Sn)&amp;gt;铅(Pb)" vertex="1">
+          <mxGeometry height="40" width="380" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="H" vertex="1">
+          <mxGeometry height="40" width="20" x="420" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="铜(Cu)&amp;gt;汞(Hg)&amp;gt;银(Ag)&amp;gt;铂(Pt)&amp;gt;金(Au)" vertex="1">
+          <mxGeometry height="40" width="230" x="440" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="与酸反应可以产生氢气(H2&lt;span style=&quot;text-align: start; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);&quot;&gt;↑&lt;/span&gt;)" vertex="1">
+          <mxGeometry height="40" width="380" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="与酸反应不能产生氢气" vertex="1">
+          <mxGeometry height="40" width="230" x="440" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="活沷性: 强 ----------------------------------------------------------------------------------------------------------------------&amp;gt; 弱" vertex="1">
+          <mxGeometry height="30" width="630" x="40" y="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
