@@ -611,7 +611,7 @@
           <mxGeometry height="30" width="310" x="83" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="Iq76VGBb7RV6MLATjvT8-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F区：最外层最多只能存放14个电子" vertex="1">
-          <mxGeometry height="30" width="310" x="80" y="1040" as="geometry" />
+          <mxGeometry height="30" width="310" x="83" y="1040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
