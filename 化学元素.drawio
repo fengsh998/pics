@@ -601,16 +601,16 @@
         <mxCell id="Iq76VGBb7RV6MLATjvT8-228" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1s-&amp;gt;2s-&amp;gt;2p-&amp;gt;3s-&amp;gt;3p-&amp;gt;4s-&amp;gt;3d-&amp;gt;4p-&amp;gt;5s-&amp;gt;4d-&amp;gt;5p-&amp;gt;6s-&amp;gt;4f-&amp;gt;5d-&amp;gt;6p-&amp;gt;7s-&amp;gt;5f-&amp;gt;6d-&amp;gt;7p" vertex="1">
           <mxGeometry height="40" width="660" x="90" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-229" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S区：最外层最多只能存放2个电子" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-229" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="S区（1轨）：最外层最多只能存放2个电子" vertex="1">
           <mxGeometry height="30" width="310" x="80" y="980" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="P区：最外层最多只能存放6个电子" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-230" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="P区（3轨）：最外层最多只能存放6个电子" vertex="1">
           <mxGeometry height="30" width="310" x="80" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D区：最外层最多只能存放10个电子" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-231" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="D区（5轨）：最外层最多只能存放10个电子" vertex="1">
           <mxGeometry height="30" width="310" x="83" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="Iq76VGBb7RV6MLATjvT8-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F区：最外层最多只能存放14个电子" vertex="1">
+        <mxCell id="Iq76VGBb7RV6MLATjvT8-232" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="F区（7轨）：最外层最多只能存放14个电子" vertex="1">
           <mxGeometry height="30" width="310" x="83" y="1040" as="geometry" />
         </mxCell>
       </root>
